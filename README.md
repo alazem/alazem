@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Alazar Zemene]
+# 👋 Hi there, I'm Alazar Zemene
 
 I'm a passionate **Backend developer** focused on building impactful digital experiences. I love clean code, good design, and meaningful projects.
 
