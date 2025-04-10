@@ -1,6 +1,6 @@
-#👋 Hi there, I'm Alazar Zemene
+ # 👋 Hi there, I'm Alazar Zemene
 
-# I'm a passionate **Backend developer** focused on building impactful digital experiences.
+## I'm a passionate **Backend developer** focused on building impactful digital experiences.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=alazem&color=blue)
 
