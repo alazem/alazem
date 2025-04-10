@@ -1,4 +1,4 @@
-                                                         # 👋 Hi there, I'm Alazar Zemene
+  # 👋 Hi there, I'm Alazar Zemene
 
 I'm a passionate **Backend developer** focused on building impactful digital experiences.
 
@@ -14,8 +14,6 @@ I'm a passionate **Backend developer** focused on building impactful digital exp
 - 🔗 Collaborating on real-world projects that solve meaningful problems
 
 ---
-
-## 🛠 Tech Stack
 
 ## 🧰 Languages & Tools
 
@@ -42,6 +40,7 @@ I'm a passionate **Backend developer** focused on building impactful digital exp
   <img height="160px" src="https://github-readme-stats.vercel.app/api?username=alazem&show_icons=true&theme=transparent&hide_border=true" />
   <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alazem&layout=compact&theme=transparent&hide_border=true" />
 </div>
+
 
 ## 🔥 GitHub Streak
 
