@@ -1,5 +1,5 @@
 
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm Alazar Zemene!
 
 Welcome to my GitHub! I'm a passionate **Backend developer** who loves building things that matter.
 
